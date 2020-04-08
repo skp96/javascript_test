@@ -1,6 +1,6 @@
 ## Video Walkthrough:
 
-https://drive.google.com/file/d/18XRxJ_-24FVYHPDv-QsgxYGB1kBLjBKy/view?usp=sharing
+https://youtu.be/R4Y8miyVkw0
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
