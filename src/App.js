@@ -88,6 +88,7 @@ class App extends React.Component {
 	checkBoxCount = (e) => {
 		const { checkedRows } = this.state;
 		let count = checkedRows;
+
 		if (e.target.checked) {
 			count++;
 		} else {
@@ -120,7 +121,7 @@ class App extends React.Component {
 			<div className='loan'>
 				<LoanTable
 					loanData={loanData}
-					checkboxCount={this.checkBoxCount}
+					checkBoxCount={this.checkBoxCount}
 					update={this.update}
 					toggleCheckboxes={this.toggleCheckboxes}
 				/>
